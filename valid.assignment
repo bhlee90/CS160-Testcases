@@ -23,7 +23,7 @@ function Main():integer{
 	a = intFunc(b);
 	b = -a;
 	
-	(% Boolean assignment %)
+	(% Boolean assignment %) 
 	d = true;
 	e = false;
 	f = d;
